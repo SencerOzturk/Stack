@@ -1,0 +1,7 @@
+C:\Users\Muhammed Sencer\OneDrive\Masaüstü\ders3(a)\Veri yapıları\final\Stack\bin\Debug\Stack.exe.config
+C:\Users\Muhammed Sencer\OneDrive\Masaüstü\ders3(a)\Veri yapıları\final\Stack\bin\Debug\Stack.exe
+C:\Users\Muhammed Sencer\OneDrive\Masaüstü\ders3(a)\Veri yapıları\final\Stack\bin\Debug\Stack.pdb
+C:\Users\Muhammed Sencer\OneDrive\Masaüstü\ders3(a)\Veri yapıları\final\Stack\obj\Debug\Stack.csproj.AssemblyReference.cache
+C:\Users\Muhammed Sencer\OneDrive\Masaüstü\ders3(a)\Veri yapıları\final\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Sencer\OneDrive\Masaüstü\ders3(a)\Veri yapıları\final\Stack\obj\Debug\Stack.exe
+C:\Users\Muhammed Sencer\OneDrive\Masaüstü\ders3(a)\Veri yapıları\final\Stack\obj\Debug\Stack.pdb
